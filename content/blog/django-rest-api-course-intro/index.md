@@ -1,7 +1,7 @@
+---
 title: Django REST API Course Intro
 date: "2025-02-07T14:30:00.000Z"
 description: "A little bit about the Django REST API course I've started"
-
 ---
 
 Recently I started a course [Build a Backend REST API with Python & Django - Advanced](https://www.udemy.com/course/django-python-advanced/) which has been pretty detailed and focuses on test-driven Django development to build a REST API. There is detailed setup with Docker using linting and Github Actions. One thing I noticed early on is I'm having trouble with the shell script I used following directly with the course, but Visual Studio Code was rather helpful.
